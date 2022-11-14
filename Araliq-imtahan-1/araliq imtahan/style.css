@@ -1,0 +1,38 @@
+body{
+    background: url("https://wallpapers.com/images/hd/sky-wallpaper-high-definition-wallpaper-high-definition-background-u6mq7j3x9brszxqf.jpg");
+}
+.welcome{
+    color: rgb(255, 254, 254);
+    height: 80vh;
+    display: flex;
+ align-items: center;
+justify-content: center;
+font-size: 25px;
+
+
+}
+.header{
+    display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+    flex-direction: row;
+    margin-left: 11px;
+    margin-right: 11px;
+  
+
+}
+.galaxy{
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+.list{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+      flex-direction: row;
+   width: 200px;
+   font-weight: bold;
+   color: white;
+   font-size: 18px;
+}
